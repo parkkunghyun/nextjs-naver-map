@@ -20,10 +20,6 @@ function useMap() {
       setMyLocation({ latitude: 37.4862618, longitude: 127.1222903 });
     }
   }, []);
-
-
-
-
   
   useEffect(() => {
     var h ="d"
